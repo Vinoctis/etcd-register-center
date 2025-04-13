@@ -1,4 +1,4 @@
-module etcd-register-center
+module github.com/Vinoctis/etcd-register-center
 
 go 1.23.0
 
