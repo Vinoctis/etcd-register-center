@@ -1,7 +1,7 @@
 package main 
 
 import (
-	etcd "etcd-register-center/sdk"
+	etcd "github.com/Vinoctis/etcd-register-center/sdk"
 	"log"
 	"fmt"
 	"time"
